@@ -2,6 +2,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pvmm&count_private=true&show_icons=true&theme=gruvbox" />
 </a>
 
+<p> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=pvmm" alt="pvmm" /></a> </p>
 
