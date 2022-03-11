@@ -4,11 +4,6 @@
 
 <p> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=pvmm" alt="pvmm" /></a> </p>
-
-<p> </p>
-
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvmm&show_icons=true&theme=gruvbox&langs_count=8&layout=compact" />
 </a>
