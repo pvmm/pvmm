@@ -14,8 +14,5 @@
 </a>
 
 <p> </p>
-[![trophy](https://github-profile-trophy-winning.vercel.app/?username=pvmm&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pvmm&theme=gruvbox&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) 
 
 ![](https://komarev.com/ghpvc/?username=pvmm)
