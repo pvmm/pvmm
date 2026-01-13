@@ -15,4 +15,6 @@
 
 <p> </p>
 
+[![GitHub Streak](https://github-readme-streak-stats-murex-phi.vercel.app?user=pvmm&theme=gruvbox&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
 ![](https://komarev.com/ghpvc/?username=pvmm)
