@@ -15,9 +15,9 @@
 
 <p> </p>
 
-[![GitHub Streak](https://github-readme-streak-stats-murex-phi.vercel.app?user=pvmm&theme=gruvbox&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-murex-phi.vercel.app/?user=pvmm&theme=gruvbox&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-[![trophy](trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy-oam70sk7j-pvms-projects-a9bf033c.vercel.app?username=pvmm&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)<br/>
+[![trophy](https://github-profile-trophy-oam70sk7j-pvms-projects-a9bf033c.vercel.app/?username=pvmm&theme=onedark&format=png)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=pvmm)
