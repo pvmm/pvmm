@@ -8,18 +8,18 @@
   <img align="center" src="https://github-readme-stats-three-kappa-63.vercel.app/api?username=pvmm&count_private=true&show_icons=true&theme=gruvbox" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats-three-kappa-63.vercel.app/api/top-langs/?username=pvmm&show_icons=true&theme=gruvbox&langs_count=8&layout=compact" />
 </a>
 
-<br/><br/>
+<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats-murex-phi.vercel.app/?user=pvmm&theme=gruvbox&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-<br/><br/>
+<br/>
 
-[![trophy](trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)<br/>
+[![trophy](trophy.svg)](https://github.com/soulteary/github-profile-trophy)<br/>
 
 ![](https://komarev.com/ghpvc/?username=pvmm)
