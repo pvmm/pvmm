@@ -3,7 +3,7 @@ name: Update README trophy
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: "0 2 * * *" # Runs once daily at 2 a.m.
   workflow_dispatch:
