@@ -4,7 +4,7 @@
 - 🔍 I'm looking for work!
 - 📫 How to reach me: I am on github every day and also on <a rel="me" href="https://mastodon.gamedev.place/web/@pvm">Mastodon</a> and <a rel="me" href="https://bsky.app/profile/pvmm.bsky.social">Bluesky</a>.
 
-[![stats](stats.svg)](https://github.com/soulteary/github-readme-stats)<br/>
+[![stats](profile/stats.svg)](https://github.com/soulteary/github-readme-stats)
 
 <br/>
 
@@ -12,12 +12,14 @@
   <img align="center" src="https://github-readme-stats-three-kappa-63.vercel.app/api/top-langs/?username=pvmm&show_icons=true&theme=gruvbox&langs_count=8&layout=compact" />
 </a>
 
-<br/>
+<br/><br/>
 
 [![GitHub Streak](https://github-readme-streak-stats-murex-phi.vercel.app/?user=pvmm&theme=gruvbox&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 <br/>
 
-[![trophy](trophy.svg)](https://github.com/soulteary/github-profile-trophy)<br/>
+[![trophy](profile/trophy.svg)](https://github.com/soulteary/github-profile-trophy)
+
+<br/>
 
 ![](https://komarev.com/ghpvc/?username=pvmm)
