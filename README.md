@@ -8,9 +8,7 @@
 
 <br/>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-three-kappa-63.vercel.app/api/top-langs/?username=pvmm&show_icons=true&theme=gruvbox&langs_count=8&layout=compact" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvmm&theme=gruvbox&layout=donut-vertical&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
 
