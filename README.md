@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvmm&theme=gruvbox&layout=donut-vertical&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/><br/>
+<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats-murex-phi.vercel.app/?user=pvmm&theme=gruvbox&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
