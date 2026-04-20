@@ -21,3 +21,11 @@
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=pvmm)
+
+TODO
+----
+* [ ] update HitBasic to use a web interface;
+* [ ] finish Caterpuzzle during MSXdev26;
+* [ ] isometric shmup project like Zaxxon;
+* [ ] openMSX for android;
+* [ ] pseudo 3D racing game project;
