@@ -4,7 +4,7 @@
 - 🔍 I'm looking for work!
 - 📫 How to reach me: I am on github every day and also on <a rel="me" href="https://mastodon.gamedev.place/web/@pvm">Mastodon</a> and <a rel="me" href="https://bsky.app/profile/pvmm.bsky.social">Bluesky</a>.
 
-[![stats](profile/stats.svg)](https://github.com/soulteary/github-readme-stats)
+![stats](https://github-readme-stats-ten-pearl-9oucymngfq.vercel.app/api?username=pvmm)
 
 <br/>
 
