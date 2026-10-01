@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvmm&theme=gruvbox&layout=donut-vertical&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvmm&theme=gruvbox&layout=donut-vertical&langs_count=7&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
